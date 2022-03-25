@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T10:10:00.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="uE1Skgktq8QZ2HPY6hY8" version="17.2.2" type="github"><diagram id="dn16DxldGP9FRI6uqD-U" name="Page-1">7VVLb9swDP41PhbwI818zZKuA/ZAgBzWngbV4mwBsmjIdGLv10+e6YfiFtuK7baLQX4iKfLjZztI9mV7b0VVfEIJOohD2QbJIYjjdJu6Zw90A7BJ4wHIrZIDFM3ASX0HBkNGGyWh9gIJUZOqfDBDYyAjDxPW4sUP+4bav7USOayAUyb0Gv2iJBU81m044+9B5cV4cxTySSnGYAbqQki8LKDkLkj2FpEGq2z3oHvuRl6GvHcvnE6NWTD0Owm1Cb/q8sF8PmzS9rFu7z9sbm64ylnohgc+USP7ikPP1I1EuPar3mxKvcsIbZC8PYMl5aj6KJ5AH7FWpNC4kCckwnIRsNMq7w8IK4cWVGrnRM7EhrQysJ+WFzqQW3K50L44azQx6JQHWALZzoVwwhvmvPPdy7zBhKFisbwtY4I1k091Z1qdwcz+AcvxiuUVvWDkrper8wwa8Gmy2BgJkvmBVtEDn/T248I+tIugQ7dwjmCVmwasxzLIlfyvOHZdYmMz+JWI1rtYsH37DNsjZkELUme/jedWwDccUfXyHFcdbfxdT/5YYmifs5bvx3WhrV8ovapDwuZAqzo/BTFN/XqNJP818s80MtXh1cZ/SyPR9Sfj1SJx7vwrGMLn/2ly9wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-25T11:22:49.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="M7ccpOkyLJlMg2RhUlTO" version="17.2.2" type="github">
+  <diagram id="dn16DxldGP9FRI6uqD-U" name="Page-1">
+    <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="enk3c5EGaKRnMTfw7i84-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="330" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-14" target="enk3c5EGaKRnMTfw7i84-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-14" target="enk3c5EGaKRnMTfw7i84-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-14" target="enk3c5EGaKRnMTfw7i84-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-14" target="enk3c5EGaKRnMTfw7i84-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-14" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-22" value="DSSC Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-24" value="Cashier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-25" value="Division Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-26" value="Registrar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-28" target="enk3c5EGaKRnMTfw7i84-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-28" value="Student Registration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-32" target="enk3c5EGaKRnMTfw7i84-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-32" value="School Payment System" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-35" target="enk3c5EGaKRnMTfw7i84-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-35" value="Loading of Subjects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-43" target="enk3c5EGaKRnMTfw7i84-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-43" value="Student Evaluation/Monitoring" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-46" value="Guidance Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-51" target="enk3c5EGaKRnMTfw7i84-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="enk3c5EGaKRnMTfw7i84-51" target="enk3c5EGaKRnMTfw7i84-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enk3c5EGaKRnMTfw7i84-51" value="Student Validation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
